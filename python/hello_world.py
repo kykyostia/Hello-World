@@ -1,8 +1,10 @@
+# Assigning values to variables
 x = "Hello"
 y = "1"
-#display x:
+# Display x and y
 print(x)
-print (y)
-#display the data type of x:
+print(y)
+
+# Display the data type of x and y
 print(type(x)) 
-print (type(y))
+print(type(y))
